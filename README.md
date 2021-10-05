@@ -19,3 +19,4 @@
 | Backend APIs | Express Js |
 | Database     | Postgres   |
 | ORM/ODM      | Sequelize  |
+
